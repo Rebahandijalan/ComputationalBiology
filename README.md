@@ -7,7 +7,7 @@ Mathematical modeling and dynamic simulation of biological systems, reaction kin
 
 ---
 
-## 📌 Focus & Core Concepts
+## Focus & Core Concepts
 
 - **Dynamic Population Systems:** Logistic growth models, Lotka-Volterra (*predator-prey*) dynamics, and time-delay oscillations.
 - **Reaction Kinetics & Energy Coupling:** Implementation of the *Law of Mass Action*, Michaelis-Menten enzyme kinetics, and ATP/ADP thermodynamics.
@@ -15,7 +15,15 @@ Mathematical modeling and dynamic simulation of biological systems, reaction kin
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Interactive Notebooks (Run Online)
+
+Execute and experiment with the models directly in your browser:
+
+- 🧪 **Biological Modeling & ODEs: Michaelis Menten Kinetics** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME_KAMU/NAMA_REPOSITORY_KAMU/blob/main/NAMA_FILE_KAMU.ipynb)
+
+---
+
+## Tech Stack & Tools
 
 * **Language:** Python
 * **Numerical Computing & ODE Solvers:** `numpy`, `scipy` (`solve_ivp`)
