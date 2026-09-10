@@ -11,7 +11,7 @@ Mathematical modeling and dynamic simulation of biological systems, reaction kin
 
 - **Dynamic Population Systems:** Logistic growth models, Lotka-Volterra (*predator-prey*) dynamics, and time-delay oscillations.
 - **Reaction Kinetics & Energy Coupling:** Implementation of the *Law of Mass Action*, Michaelis-Menten enzyme kinetics, and ATP/ADP thermodynamics.
-- **Stochastic Processes:** 2D/3D Brownian motion simulations, diffusion, and Langevin stochastic equations.
+- **Stochastic Processes:** to be announced
 
 ---
 
