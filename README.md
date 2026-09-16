@@ -19,7 +19,7 @@ Mathematical modeling and dynamic simulation of biological systems, reaction kin
 
 Execute and experiment with the models directly in your browser:
 
-- **Biological Modeling & ODEs: Michaelis Menten Kinetics** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rebahandijalan/ComputationalBiology/blob/main/Michaelis_Menten_Kinetics_Bintang.ipynb)
+- **Biological Modeling & ODEs: Michaelis Menten Kinetics** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rebahandijalan/ComputationalBiology/blob/main/Bintang_Michaelis_Menten_Kinetics.ipynb)
 
 ---
 
